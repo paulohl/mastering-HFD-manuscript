@@ -1,6 +1,11 @@
 <p align="center"> 
-<img src="https://huggingface.co/front/thumbnails/docs/diffusers.png" width="300px">
+<a href="https://a.co/d/0dRgxkbw" target="_blank">
+  <img src="https://huggingface.co/front/thumbnails/docs/diffusers.png" alt="Alt text" width="800"/>
+</a>
 </p>
+
+
+
 
 # Hugging face Diffusers PI - including code and illustrations
 
