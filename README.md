@@ -1,6 +1,6 @@
 <p align="center"> 
 <a href="https://a.co/d/0dRgxkbw" target="_blank">
-  <img src="https://huggingface.co/front/thumbnails/docs/diffusers.png" alt="Alt text" width="800"/>
+  <img src="https://zinnia.holdings/wp-content/uploads/2026/02/2598-Linkedin.png" alt="Alt text" width="800"/>
 </a>
 </p>
 
