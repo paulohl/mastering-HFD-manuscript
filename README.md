@@ -11,7 +11,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/5fe37ff5-ead8-4517-afbf-c802db35ec69)
-ORCID 0000-0002-4992-4541  ---------  (provisory) DOI 10.6084/m9.figshare.28075280
+ORCID 0000-0002-4992-4541  ---------  (superceded) DOI 10.6084/m9.figshare.28075280
 
 ## Copyright Notice
 © Paulo H. Leocadio, 2024. All Rights Reserved.
