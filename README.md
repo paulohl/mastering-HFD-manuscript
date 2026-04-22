@@ -97,21 +97,22 @@ Paulo H. Leocadio is an esteemed Electronics and Computer Sciences Engineer with
 ___
 ## Chapter Outline
 
-| Section Title	                                                   | Chapter No	 | Chapter Title                   	| Page Count | 	 Chapter Delivery Date  |
-|------------------------------------------------------------------|-------------|----------------------------------------------------------|------------|--|
-| Part 1: Foundations of  NLP and Transformer Models	             |  1.	       | Introduction to Hugging Face Diffusers Library           |	35         |	|
-| Part 2: Practical Applications of Hugging Face Diffusers Library |	2.	       | Utilizing Hugging Face Diffusers for Text Classification |	35	       |  |
-|	                                                                 |  3.	       | Advanced Generative Tasks with Hugging Face Diffusers	  | 25         |  |
-|	                                                                 |  4.	       | Sequence Labeling with Hugging Face Diffusers	          | 30	       |  |
-|                                                                  |  5.	       | Transfer Learning for NLP Tasks	                        | 25	       |  |
-| Part 3: Advanced Concepts in Hugging Face Diffusiers Library     |	6.	       | Pipelines in Hugging Face Diffusers                    	| 25         |  |
-|                                                                  |	7.	       | Schedulers in Hugging Face Diffusers	                    | 25	       |  |
-|                                                                  |	8.	       | Advanced Inference Techniques	                          | 25         |  |	
-| Part 4: Advanced Applications with Hugging Face Diffusiers	     |  9.	       | Build Your Own AlphaZero AI	                            | 15	       |  |
-|                                                                  | 10.	       | Deep Q-Network and Atari Game	                          | 30	       |  |
-|                                                                  | 11.	       | Asynchronous Actor-Critic with gym-retro	                | 30	       |  |
-|                                                                  | 12.	       | Road Ahead	                                              | 15	       |  |
-|                                                                  |	           |                                              	total	    | 324	       |  |
+
+| Section Title	                                                   | Chapter | Chapter Title                   	         | Pre-print DOI                |
+|------------------------------------------------------------------|---------|-------------------------------------------|------------------------------|
+| Part 1: Foundations of  NLP and Transformer Models	             |  1.	   | [Introduction to Hugging Face Diffusers Library](https://www.authorea.com/users/873215/articles/1253594-hugging-face-diffusers-chapter-01) | [10.22541/au.173627631.17676163](https://www.authorea.com/users/873215/articles/1253594-hugging-face-diffusers-chapter-01) |
+| Part 2: Practical Applications of Hugging Face Diffusers Library |	2.	   | [Utilizing Hugging Face Diffusers for Text Classification](https://www.authorea.com/users/873215/articles/1253593-hugging-face-diffusers-chapter-02) |	[10.22541/au.173627632.24833431](https://www.authorea.com/users/873215/articles/1253593-hugging-face-diffusers-chapter-02) |
+|	                                                                 |  3.	   | [Advanced Generative Tasks with Hugging Face Diffusers](https://www.authorea.com/users/873215/articles/1253592-hugging-face-diffusers-chapter-03)	  | [10.22541/au.173627633.31089126](https://www.authorea.com/users/873215/articles/1253592-hugging-face-diffusers-chapter-03) |
+|	                                                                 |  4.	   | [Sequence Labeling with Hugging Face Diffusers](https://www.authorea.com/users/873215/articles/1256657-hugging-face-diffusers-chapter-04)	          |  [10.22541/au.173627633.36875095](https://www.authorea.com/users/873215/articles/1256657-hugging-face-diffusers-chapter-04)  |
+|                                                                  |  5.	   | [Transfer Learning for NLP Tasks](https://www.authorea.com/users/873215/articles/1256719-hugging-face-diffusers-chapter-05)	                        | [10.22541/au.173627634.41673828](https://www.authorea.com/users/873215/articles/1256719-hugging-face-diffusers-chapter-05)	      |
+| Part 3: Advanced Concepts in Hugging Face Diffusiers Library     |	6.	   | [Pipelines in Hugging Face Diffusers](https://www.authorea.com/users/873215/articles/1256655-hugging-face-diffusers-chapter-06)                    	| [10.22541/au.173627634.45636164](https://www.authorea.com/users/873215/articles/1256655-hugging-face-diffusers-chapter-06) |
+|                                                                  |	7.	   | [Schedulers in Hugging Face Diffusers](https://www.authorea.com/users/873215/articles/1256650-hugging-face-diffusers-chapter-07)	                    | [10.22541/au.173627634.49343603](https://www.authorea.com/users/873215/articles/1256650-hugging-face-diffusers-chapter-07)   |
+|                                                                  |	8.	   | Advanced Inference Techniques	                          |    []()|	
+| Part 4: Advanced Applications with Hugging Face Diffusiers	     |  9.	   | Build Your Own AlphaZero AI	                            | []()	       |  |
+|                                                                  | 10.	   | Deep Q-Network and Atari Game	                          | []()	       |  |
+|                                                                  | 11.	   | Asynchronous Actor-Critic with gym-retro	                | []()	       |  |
+|                                                                  | 12.	   | Road Ahead	                                              | []()	       |  |
+|                                                                  |	       |                                              	 	    	  |              |
 
 ___
 ![image](https://github.com/user-attachments/assets/ffe21e92-004d-445f-9e50-5cb4689d33a3)
